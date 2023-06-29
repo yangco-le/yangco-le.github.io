@@ -23,6 +23,15 @@
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
+          {%- if entry.abbr2 -%}
+            {%- if site.data.venues[entry.abbr2] -%}
+            {%- assign venue_style = nil -%}
+            {%- assign venue_style = 'blue' | prepend: 'style="background-color:' | append: '"' -%}
+            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr2].url}}">{{entry.abbr2}}</a></abbr>
+            {%- else -%}
+            <abbr class="badge">{{entry.abbr2}}</abbr>
+            {%- endif -%}
+          {%- endif -%}
         {%- endif -%}
         </div>
 
