@@ -1,11 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - yangco-le
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
+  - Thinklab-SJTU/HardSATGEN
+  - yangco-le/AdvLatGAN
+  - yhlleo/GAN-Metrics
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
