@@ -57,7 +57,7 @@ Postgraduate period:
 The solver **Kissat_Adaptive_Restart** that I was personally responsible for achieved 12th place in Anniversary Track and 26th place in Main Track worldwide, collaborated with Decision Making and Reasoning Lab, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html). The solving strategy was integrated into [Huawei Hisilicon](https://www.hisilicon.com/en/)'s practical applications, with an average performance gain of around **15%** and a maximum performance improvement of **97%**.
 
 - **Anime-Paintbrush: A Web-based Automatic Animation Coloring Tool**  
-A interesting web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. This project deploys the trained generative adversarial networks (GAN) on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web).
+A web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. This project deploys the trained generative adversarial networks (GAN) on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web).
 
 <!-- <small>Academic Service</small>
 ---
