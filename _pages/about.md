@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 <small>About</small>
 ---
 
-I am now a master student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn) from Shanghai Jiao Tong University, supervised by [Prof. Junchi Yan](http://thinklab.sjtu.edu.cn/). I achieved the Bachelor degree from SJTU in 2022. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
+I am now a 1st-year master student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn) from Shanghai Jiao Tong University, supervised by [Prof. Junchi Yan](http://thinklab.sjtu.edu.cn/). I achieved the Bachelor degree from SJTU in 2022. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
 
 
 <small>Academic Performance</small>
