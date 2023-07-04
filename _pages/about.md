@@ -50,3 +50,17 @@ Postgraduate period:
 - First Prize for Social Practice of SJTU
 - Advanced Individuals in Social Practice of SJTU
 
+<small>Selected Projects</small>
+---
+
+- **The International SAT Competition 2022 & Solving Strategy Integration to Huawei Hisilicon's Practical Applications**  
+The solver **Kissat_Adaptive_Restart** that I was personally responsible for achieved 12th place in Anniversary Track and 26th place in Main Track worldwide, collaborated with Decision Making and Reasoning Lab, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html). The solving strategy is ready to be integrated into [Huawei Hisilicon](https://www.hisilicon.com/en/)'s practical applications, with an average performance gain of around 15% and a maximum performance improvement of 97%.
+
+- **Anime-Paintbrush: A Web-based Automatic Animation Coloring Tool**  
+A interesting web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. By learning through generative adversarial networks (GAN), neural networks can learn pretty good drawing skills. This project deploys the trained neural network on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches and download them through simple operations on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web).
+
+<small>Academic Service</small>
+---
+
+- ICML 2023 Reviewer
+- NeurIPS 2023 Reviewer
