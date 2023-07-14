@@ -33,8 +33,8 @@ Undergraduate period:
 - Courses: 76.7% above A, 45.0% above A+
 
 Postgraduate period: 
-- GPA: 3.80/4.0
-- Courses: 88.9% at A level
+- GPA: 3.83/4.0
+- Courses: 90.0% at A level
 
 <small>Selected Awards</small>
 ---
