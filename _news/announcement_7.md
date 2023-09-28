@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded the Graduate National Scholarship (3/211 in CS Dept.).
+I was awarded the **Graduate National Scholarship** (3/211 in CS Dept.).
