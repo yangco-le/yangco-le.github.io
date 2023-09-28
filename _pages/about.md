@@ -39,7 +39,8 @@ Postgraduate period:
 <small>Selected Awards</small>
 ---
 
-- National Scholarship (**top 0.2%** in the nation)
+- Undergraduate National Scholarship (**top 0.2%** in the nation)
+- Graduate National Scholarship (**top 1%** in CS Dept.)
 - Outstanding Graduate of Shanghai (**top 3%**)
 - Huawei Fellowship (**top 5%**)
 - HyperGryph Fellowship (**top 3%**)
