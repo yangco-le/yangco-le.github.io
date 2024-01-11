@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am now a second-year master student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn) from Shanghai Jiao Tong University, supervised by [Prof. Junchi Yan](http://thinklab.sjtu.edu.cn/). I achieved the Bachelor degree from SJTU in 2022. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
 
-I serve as the reviewer for conferences (NeurIPS, ICML, ICLR) and journals (Machine Learning).
+I serve as the reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR) and journals (Machine Learning).
 
 
 <small>Academic Performance</small>
