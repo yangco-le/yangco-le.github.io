@@ -40,7 +40,7 @@
     
 
     
-     <link rel="stylesheet" href="/assets/css/main.css?v=1705458459">
+     <link rel="stylesheet" href="/assets/css/main.css?v=1705459592">
     <link rel="canonical" href="https://alshedivat.github.io/">
 
     <!-- Dark Mode -->
@@ -282,7 +282,20 @@ A web tool that would automatically assist in generating high quality images by 
         <div class="author">
         
 
-        </div>
+        Xinyan Chen, Yang Li, Runzhong Wang, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Junchi Yan' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
@@ -309,7 +322,7 @@ A web tool that would automatically assist in generating high quality images by 
           <div class="bibtex hidden">
             <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">chen2024mixsat</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{From Matching to Mixing: A Graph Interpolation Approach for {SAT} Instance Generation}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Chen, Xinyan and Li, Yang and Wang, Runzhong and Yan, Junchi}</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{The Twelfth International Conference on Learning Representations}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2024}</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
