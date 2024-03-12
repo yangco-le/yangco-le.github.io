@@ -59,6 +59,9 @@ Postgraduate period:
 - **International SAT Competition 2022 & Solving Strategy Integration to Huawei's Practical Applications**  
 The solver **Kissat_Adaptive_Restart** that I was personally responsible for achieved 12th place in Anniversary Track and 26th place in Main Track worldwide, collaborated with Decision Making and Reasoning Lab, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html). The solving strategy was integrated into [Huawei Hisilicon](https://www.hisilicon.com/en/)'s practical applications, with an average performance gain of around **15%** and a maximum performance improvement of **97%**.
 
+- **Awesome Machine Learning for Combinatorial Optimization Resources**
+We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems in [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co). The repository covers the learning-based efforts for 34 different combinatorial optimization problems and includes over 300 papers in the ML4CO community. The repository has gained over 1,000 stars on Github.
+
 - **Anime-Paintbrush: A Web-based Automatic Animation Coloring Tool**  
 A web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. This project deploys the trained generative adversarial networks (GAN) on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web).
 
