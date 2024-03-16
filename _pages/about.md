@@ -59,6 +59,9 @@ Postgraduate period:
 - **International SAT Competition 2022 & Solving Strategy Integration to Huawei's Practical Applications**  
 The solver **Kissat_Adaptive_Restart** that I was personally responsible for achieved 12th place in Anniversary Track and 26th place in Main Track worldwide, collaborated with Decision Making and Reasoning Lab, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html). The solving strategy was integrated into [Huawei Hisilicon](https://www.hisilicon.com/en/)'s practical applications, with an average performance gain of around **15%** and a maximum performance improvement of **97%**.
 
+- **Data Strategy Integration to HUAWEI CLOUD's OptVerse AI Solver**  
+The computational hardness maintaining data augmentation strategy proposed in our KDD'23 HardSATGEN has been integrated into OptVerse AI Solver, which solves problems with hundreds of millions of variables, at 100x computing speed thanks to distributed parallel acceleration. AI-enabled modeling is 30 times more efficient than manual modeling, while AI-based adaptive tuning is 30% more efficient than manual parameter setting. Thanks to these metrics, OptVerse AI Solver ranks first on the Hans Mittelmann Benchmark for Simplex LP solvers.
+
 - **Awesome Machine Learning for Combinatorial Optimization Resources**  
 We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems in [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co). The repository covers the learning-based efforts for 34 different combinatorial optimization problems and includes over 300 papers in the ML4CO community. The repository has gained over 1,000 stars on Github.
 
