@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by **ICML 2024**.
+One paper was accepted by **ICML 2024** as **Spotlight**.
