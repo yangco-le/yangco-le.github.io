@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Mail: yanglily@sjtu.edu.cn</p>
-    <p>Tel: (+86)15201962556</p>
     <p>City: Shanghai, 200240</p>
 
 news: true  # includes a list of news items
