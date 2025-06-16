@@ -44,7 +44,7 @@ Postgraduate period:
 - Undergraduate National Scholarship (**top 0.2%** in the nation)
 - Graduate National Scholarship (**top 1%** in CS Dept.)
 - Outstanding Graduate of Shanghai (**top 3%**)
-- NeurIPS 2024 Top Reviewer
+- NeurIPS 2024 Top Reviewer Award (**top 10%**)
 - Huawei Fellowship (**top 5%**)
 - HyperGryph Fellowship (**top 3%**)
 - 1st-Class Academic Excellence Scholarship (**top 1%**)
