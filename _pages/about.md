@@ -21,9 +21,10 @@ social: true  # includes social icons at the bottom of the page
 <small>About</small>
 ---
 
-I am now a second-year master student at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn) from Shanghai Jiao Tong University, supervised by [Prof. Junchi Yan](http://thinklab.sjtu.edu.cn/). I achieved the Bachelor degree from SJTU in 2022. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
+I am now a first-yeat PhD student majoring in Computer Science at [School of Artificial Intelligence](https://soai.sjtu.edu.cn/) from Shanghai Jiao Tong University, where I am fortunate to be supervised by Prof. Weinan E and Prof. Junchi Yan. I achieved the Bachelor degree from  School of Computer Science at SJTU, and transitioned directly from the Master's program of [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) to the current PhD program. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
 
-I serve as the reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR) and journals (Machine Learning).
+
+I serve as the reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) and journals (TPAMI, etc.).
 
 
 <small>Academic Performance</small>
@@ -43,6 +44,7 @@ Postgraduate period:
 - Undergraduate National Scholarship (**top 0.2%** in the nation)
 - Graduate National Scholarship (**top 1%** in CS Dept.)
 - Outstanding Graduate of Shanghai (**top 3%**)
+- NeurIPS 2024 Top Reviewer
 - Huawei Fellowship (**top 5%**)
 - HyperGryph Fellowship (**top 3%**)
 - 1st-Class Academic Excellence Scholarship (**top 1%**)
