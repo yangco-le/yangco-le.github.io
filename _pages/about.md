@@ -54,6 +54,7 @@ Postgraduate period:
 - First Prize for Social Practice of SJTU
 - Advanced Individuals in Social Practice of SJTU
 
+<!-- 
 <small>Selected Projects</small>
 ---
 
@@ -67,7 +68,7 @@ The computational hardness maintaining data augmentation strategy proposed in ou
 We maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems in [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co). The repository covers the learning-based efforts for 34 different combinatorial optimization problems and includes over 300 papers in the ML4CO community. The repository has gained over 1,000 stars on Github.
 
 - **Anime-Paintbrush: A Web-based Automatic Animation Coloring Tool**  
-A web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. This project deploys the trained generative adversarial networks (GAN) on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web).
+A web tool that would automatically assist in generating high quality images by simply inputing a sketch with a little color cue. This project deploys the trained generative adversarial networks (GAN) on the backend, while the frontend is deployed on a web application, and a user-friendly interface is designed so that users can complete the color rendering of sketches on the web page. See [Project Page](https://github.com/yangco-le/Colorization_Tool_on_Web). -->
 
 <!-- <small>Academic Service</small>
 ---
