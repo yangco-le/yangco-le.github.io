@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Student @ <a href='https://thinklab.sjtu.edu.cn'>ReThinkLab</a>, <a href='https://en.sjtu.edu.cn'>SJTU</a>.
+subtitle: Ph.D. Student @ <a href='https://thinklab.sjtu.edu.cn'>ReThinkLab</a>, <a href='https://soai.sjtu.edu.cn/'>School of AI</a>, <a href='https://en.sjtu.edu.cn'>SJTU</a>.
 
 profile:
   align: right
@@ -21,10 +21,20 @@ social: true  # includes social icons at the bottom of the page
 <small>About</small>
 ---
 
-I am now a first-yeat PhD student majoring in Computer Science at [School of Artificial Intelligence](https://soai.sjtu.edu.cn/) from Shanghai Jiao Tong University, where I am fortunate to be supervised by Prof. Weinan E and Prof. Junchi Yan. I achieved the Bachelor degree from  School of Computer Science at SJTU, and transitioned directly from the Master's program of [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) to the current PhD program. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs.
+I am a Ph.D. student at the [School of Artificial Intelligence](https://soai.sjtu.edu.cn/), Shanghai Jiao Tong University, majoring in Computer Science and Technology. I am fortunate to be advised by Academician Weinan E and Prof. Junchi Yan. Before the Ph.D. program, I received my bachelor's degree from SJTU and was upgraded from the master's program of the [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/).
 
+My research focuses on broad machine learning methodologies, especially machine learning for combinatorial optimization and decision making, generative models, and reasoning-oriented large language models. I have published **12 first-author/co-first-author papers at CCF-A top-tier conferences**, including **10 papers at NeurIPS, ICML, and ICLR**, with Spotlight recognitions at NeurIPS and ICML.
 
-I serve as the reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) and journals (TPAMI, etc.).
+I have led multiple open-source projects on machine learning for discrete optimization, contributed to Huawei's OptVerse-related technology initiatives, and participated in Alibaba's RL4LLM framework development. My open-source projects have received over **5,000 stars** in total, and the toolkits I led have accumulated over **70k downloads**. I also serve as a reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) and journals (TPAMI, etc.).
+
+<small>Selected Experiences</small>
+---
+
+- **T-Star Talent Program Intern, Alibaba ATH Business Group** (June 2025 - Feb. 2026)  
+  Worked on reinforcement-learning-based post-training for large reasoning models and RL4LLM infrastructure. First/co-first-authored works include **Attention Illuminates LLM Reasoning** (ICML 2026), **FlowTracer** (ICML 2026), and **Reasoning Palette** (CVPR 2026). Contributed to Alibaba's ALE agent learning ecosystem, ROME agent model, and ROLL Flash asynchronous RL training system.
+
+- **Researcher, ReThinkLab, Shanghai Jiao Tong University** (July 2021 - Present)  
+  Developed generative machine learning paradigms and generative combinatorial optimization solvers, including **PCL** (ICML 2025), **T2T** (NeurIPS 2023), **FastT2T** (NeurIPS 2024), **GenSCO** (NeurIPS 2025), and **Unify ML4TSP** (ICLR 2025). Led open-source resources including `awesome-ml4co`, `ML4CO-Kit`, and `ML4TSPBench`.
 
 
 <small>Academic Performance</small>
@@ -32,20 +42,25 @@ I serve as the reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) 
 
 Undergraduate period: 
 - GPA: 91.03/100 (or 3.93/4.3), Rank: 3/129 (top **2.3%**)
-- Courses: 76.7% above A, 45.0% above A+
+- Foundation Courses: 73.33% above A, 40.00% above A+
+- Subject Courses: 80.00% above A, 50.00% above A+
 
 Postgraduate period: 
 - GPA: 3.83/4.0
+- Rank Reference: 3 out of 211 achieving the Graduate National Scholarship
 - Courses: 90.0% at A level
 
 <small>Selected Awards</small>
 ---
 
-- Undergraduate National Scholarship (**top 0.2%** in the nation)
+- NSFC Youth Student Fundamental Research Program - Doctoral Fellowship (**the only recipient in the school**)
+- CAST Young Talent Development Program - Doctoral Fellowship (**the only recipient in the school**)
+- SJTU Pacemaker to Merit Student Award (**top 10 university-wide**)
 - Graduate National Scholarship (**top 1%** in CS Dept.)
+- Undergraduate National Scholarship (**top 0.2%** in the nation)
 - Outstanding Graduate of Shanghai (**top 3%**)
 - NeurIPS 2024 Top Reviewer Award (**top 10%**)
-- Huawei Fellowship (**top 5%**)
+- Huawei Fellowship (**top 3%**)
 - HyperGryph Fellowship (**top 3%**)
 - 1st-Class Academic Excellence Scholarship (**top 1%**)
 - Merit Student of Shanghai Jiao Tong University
