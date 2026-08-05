@@ -30,11 +30,14 @@ I have led multiple open-source projects on machine learning for discrete optimi
 <small>Selected Experiences</small>
 ---
 
-- **T-Star Talent Program Intern, Alibaba ATH Business Group** (June 2025 - Feb. 2026)  
-  Worked on reinforcement-learning-based post-training for large reasoning models and RL4LLM infrastructure. First/co-first-authored works include **Attention Illuminates LLM Reasoning** (ICML 2026), **FlowTracer** (ICML 2026), and **Reasoning Palette** (CVPR 2026). Contributed to Alibaba's ALE agent learning ecosystem, ROME agent model, and ROLL Flash asynchronous RL training system.
+- **T-Star Talent Program Intern, Alibaba ATH Business Group** (June 2025 - Mar. 2026)
+  Studied reinforcement-learning-based post-training for reasoning LLMs. **Attention Illuminates LLM Reasoning** (ICML 2026, first author) uses attention-revealed reasoning paths for targeted reward assignment and reached No. 1 on the Hugging Face daily paper leaderboard; **Reasoning Palette** (CVPR 2026, co-first author) enables controllable reasoning through latent contextualization; and **FlowTracer** (ICML 2026, co-first author) extracts an attention-induced information-flow backbone for token-level credit assignment. Contributed to Alibaba's ALE agent learning ecosystem, the ROME agent model, and ROLL Flash: ROME matches 480B+ models in agentic coding with 3B activated parameters (30B total), while ROLL Flash achieves up to **2.72x** speedup on agentic tasks and has received over **3k GitHub stars**.
 
-- **Researcher, ReThinkLab, Shanghai Jiao Tong University** (July 2021 - Present)  
-  Developed generative machine learning paradigms and generative combinatorial optimization solvers, including **PCL** (ICML 2025), **T2T** (NeurIPS 2023), **FastT2T** (NeurIPS 2024), **GenSCO** (NeurIPS 2025), and **Unify ML4TSP** (ICLR 2025). Led open-source resources including `awesome-ml4co`, `ML4CO-Kit`, and `ML4TSPBench`.
+- **Researcher, ReThinkLab, Shanghai Jiao Tong University** (July 2021 - Present)
+  Developed generative machine learning paradigms and models, including **PCL** (ICML 2025) for label-repurposed supervised learning and **AdvLatGAN** (NeurIPS 2022 Spotlight) for latent-space optimization. Built generative combinatorial optimization frameworks including **T2T** (NeurIPS 2023), **FastT2T** (NeurIPS 2024), **GenSCO** (NeurIPS 2025), and **MaskCO** (ICLR 2026) as the first/co-first author, achieving substantial gains in solution quality and speed across TSP, MIS, Max Cut, etc. Proposed **Unify ML4TSP** (ICLR 2025) and led `awesome-ml4co`, `ML4CO-Kit`, `ML4TSPBench`, `ML4CO-Bench-101` with over **3k GitHub stars** and **70k downloads**.
+
+- **Researcher, Learning-based Optimization Solver Project with Huawei Noah's Ark Lab** (Apr. 2022 - Feb. 2023)
+  Developed generative data methods for SAT and MILP, including **HardSATGEN** (KDD 2023) and **MixSATGEN** (ICLR 2024). The methods were integrated into Huawei's OptVerse AI Solver, which ranked first on the Hans Mittelmann benchmark and received the 2023 WAIC SAIL Award. Developed the **Kissat-Adaptive-Restart** solver for Huawei HiSilicon EDA scenarios, delivering an average performance improvement of about **18%** and a maximum improvement of **97%**.
 
 
 <small>Academic Performance</small>
@@ -53,11 +56,11 @@ Postgraduate period:
 <small>Selected Awards</small>
 ---
 
-- NSFC Youth Student Fundamental Research Program - Doctoral Fellowship (**the only recipient in the school**)
-- CAST Young Talent Development Program - Doctoral Fellowship (**the only recipient in the school**)
-- SJTU Pacemaker to Merit Student Award (**top 10 university-wide**)
-- Graduate National Scholarship (**top 1%** in CS Dept.)
-- Undergraduate National Scholarship (**top 0.2%** in the nation)
+- <span class="text-danger">National Natural Science Foundation of China Youth Student Fundamental Research Program - Doctoral Fellowship (<strong>the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)</span>
+- <span class="text-danger">China Association for Science and Technology Young Talent Development Program - Doctoral Fellowship (<strong>the only recipient in the school, ¥40,000</strong>)</span>
+- <span class="text-danger">SJTU Pacemaker to Merit Student Award (<strong>top 10 university-wide</strong>)</span>
+- <span class="text-danger">Graduate National Scholarship (<strong>top 1%</strong> in CS Dept.)</span>
+- <span class="text-danger">Undergraduate National Scholarship (<strong>top 0.2%</strong> in the nation)</span>
 - Outstanding Graduate of Shanghai (**top 3%**)
 - NeurIPS 2024 Top Reviewer Award (**top 10%**)
 - Huawei Fellowship (**top 3%**)
