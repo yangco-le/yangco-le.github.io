@@ -56,11 +56,11 @@ Postgraduate period:
 <small>Selected Awards</small>
 ---
 
-- National Natural Science Foundation of China Youth Student Fundamental Research Program - Doctoral Fellowship (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
-- China Association for Science and Technology Young Talent Development Program - Doctoral Fellowship (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
-- SJTU Pacemaker to Merit Student Award (<strong class="text-danger">top 10 university-wide</strong>)
-- Graduate National Scholarship (<strong class="text-danger">top 1%</strong> in CS Dept.)
-- Undergraduate National Scholarship (<strong class="text-danger">top 0.2%</strong> in the nation)
+- **Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China** (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
+- **Young Talent (Ph.D) Development Program of the China Association for Science and Technology** (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
+- **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
+- **Graduate National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
+- **Undergraduate National Scholarship** (<strong class="text-danger">top 0.2%</strong> in the nation)
 - Outstanding Graduate of Shanghai (**top 3%**)
 - NeurIPS 2024 Top Reviewer Award (**top 10%**)
 - Huawei Fellowship (**top 3%**)
