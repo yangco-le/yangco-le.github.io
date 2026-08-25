@@ -1,3 +1,5 @@
+
+
 # al-folio
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [maintainers]: https://img.shields.io/badge/maintainers-4-success.svg 'Number of maintainers'
@@ -174,7 +176,7 @@ Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_bla
       - [Atom (RSS-like) Feed](#atom-rss-like-feed)
       - [Related posts](#related-posts)
   * [Contributing](#contributing)
-    + [Core Contributors](#core-contributors)
+    + [Maintainers](#maintainers)
   * [License](#license)
 
 ## Getting started
