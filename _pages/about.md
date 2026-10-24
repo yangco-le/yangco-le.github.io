@@ -30,6 +30,9 @@ I have led multiple open-source projects on machine learning for discrete optimi
 <small>Selected Experiences</small>
 ---
 
+- **Research Intern, Alibaba ATH Business Group - Owen Team** (Sept. 2026 - Present)
+  Researching **long-horizon self-evolving agents for optimization** that improve solution quality and computational efficiency under limited budgets. The agents iteratively design, refine, and combine algorithms or solving strategies through extended interaction, tool use, verification feedback, error attribution, and search. This work emphasizes improvement trajectories over time and computational investment, with the goal of moving beyond invoking existing solvers toward autonomous algorithm discovery and optimization.
+
 - **T-Star Talent Program Intern, Alibaba ATH Business Group** (June 2025 - Mar. 2026)
   Studied reinforcement-learning-based post-training for reasoning LLMs. **Attention Illuminates LLM Reasoning** (ICML 2026, first author) uses attention-revealed reasoning paths for targeted reward assignment and reached No. 1 on the Hugging Face daily paper leaderboard; **Reasoning Palette** (CVPR 2026, co-first author) enables controllable reasoning through latent contextualization; and **FlowTracer** (ICML 2026, co-first author) extracts an attention-induced information-flow backbone for token-level credit assignment. Contributed to Alibaba's ALE agent learning ecosystem, the ROME agent model, and ROLL Flash: ROME matches 480B+ models in agentic coding with 3B activated parameters (30B total), while ROLL Flash achieves up to **2.72x** speedup on agentic tasks and has received over **3k GitHub stars**.
 
@@ -59,6 +62,7 @@ Postgraduate period:
 - **Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China** (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
 - **Young Talent (Ph.D) Development Program of the China Association for Science and Technology** (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
 - **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
+- **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
 - **Graduate National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
 - **Undergraduate National Scholarship** (<strong class="text-danger">top 0.2%</strong> in the nation)
 - Outstanding Graduate of Shanghai (**top 3%**)
