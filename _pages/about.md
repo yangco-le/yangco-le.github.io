@@ -30,7 +30,7 @@ I have led multiple open-source projects on machine learning for discrete optimi
 <small>Selected Experiences</small>
 ---
 
-- **Research Intern, Alibaba ATH Business Group - Owen Team** (Sept. 2026 - Present)
+- **Research Intern, Alibaba ATH Business Group - Qwen Team** (Sept. 2026 - Present)
   Researching **long-horizon self-evolving agents for optimization** that improve solution quality and computational efficiency under limited budgets. The agents iteratively design, refine, and combine algorithms or solving strategies through extended interaction, tool use, verification feedback, error attribution, and search. This work emphasizes improvement trajectories over time and computational investment, with the goal of moving beyond invoking existing solvers toward autonomous algorithm discovery and optimization.
 
 - **T-Star Talent Program Intern, Alibaba ATH Business Group** (June 2025 - Mar. 2026)
@@ -62,6 +62,7 @@ Postgraduate period:
 - **Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China** (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
 - **Young Talent (Ph.D) Development Program of the China Association for Science and Technology** (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
 - **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
+- **Baidu Scholarship** (**top 10 world-wide**)
 - **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
 - **Graduate National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
 - **Undergraduate National Scholarship** (<strong class="text-danger">top 0.2%</strong> in the nation)
