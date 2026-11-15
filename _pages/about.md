@@ -53,7 +53,7 @@ Undergraduate period:
 
 Postgraduate period: 
 - GPA: 3.83/4.0
-- Rank Reference: 3 out of 211 achieving the Graduate National Scholarship
+- Rank Reference: 3 out of 211 achieving the Master's National Scholarship
 - Courses: 90.0% at A level
 
 <small>Selected Awards</small>
@@ -64,7 +64,8 @@ Postgraduate period:
 - **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
 - **Baidu Scholarship** (**top 10 world-wide**)
 - **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
-- **Graduate National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
+- **Doctoral National Scholarship** (<strong class="text-danger">top 1%</strong> in the School of AI)
+- **Master's National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
 - **Undergraduate National Scholarship** (<strong class="text-danger">top 0.2%</strong> in the nation)
 - Outstanding Graduate of Shanghai (**top 3%**)
 - NeurIPS 2024 Top Reviewer Award (**top 10%**)
