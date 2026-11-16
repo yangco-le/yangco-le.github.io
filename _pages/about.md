@@ -25,7 +25,7 @@ I am a Ph.D. student at the [School of Artificial Intelligence](https://soai.sjt
 
 My research focuses on broad machine learning methodologies, especially machine learning for combinatorial optimization and decision making, generative models, and reasoning-oriented large language models. I have published **12 first-author/co-first-author papers at CCF-A top-tier conferences**, including **10 papers at NeurIPS, ICML, and ICLR**, with Spotlight recognitions at NeurIPS and ICML.
 
-I have led multiple open-source projects on machine learning for discrete optimization, contributed to Huawei's OptVerse-related technology initiatives, and participated in Alibaba's RL4LLM framework development. My open-source projects have received over **5,000 stars** in total, and the toolkits I led have accumulated over **70k downloads**. I also serve as a reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) and journals (TPAMI, etc.).
+I have led multiple open-source projects on machine learning for discrete optimization, contributed to Huawei's OptVerse-related technology initiatives, and participated in Alibaba's RL4LLM framework development. My open-source projects have received over **5,000 stars** in total, and the toolkits I led have accumulated over **108k downloads**. I also serve as a reviewer for top-tier ML conferences (NeurIPS, ICML, ICLR, etc.) and journals (TPAMI, etc.).
 
 <small>Selected Experiences</small>
 ---
@@ -37,7 +37,7 @@ I have led multiple open-source projects on machine learning for discrete optimi
   Studied reinforcement-learning-based post-training for reasoning LLMs. **Attention Illuminates LLM Reasoning** (ICML 2026, first author) uses attention-revealed reasoning paths for targeted reward assignment and reached No. 1 on the Hugging Face daily paper leaderboard; **Reasoning Palette** (CVPR 2026, co-first author) enables controllable reasoning through latent contextualization; and **FlowTracer** (ICML 2026, co-first author) extracts an attention-induced information-flow backbone for token-level credit assignment. Contributed to Alibaba's ALE agent learning ecosystem, the ROME agent model, and ROLL Flash: ROME matches 480B+ models in agentic coding with 3B activated parameters (30B total), while ROLL Flash achieves up to **2.72x** speedup on agentic tasks and has received over **3k GitHub stars**.
 
 - **Researcher, ReThinkLab, Shanghai Jiao Tong University** (July 2021 - Present)
-  Developed generative machine learning paradigms and models, including **PCL** (ICML 2025) for label-repurposed supervised learning and **AdvLatGAN** (NeurIPS 2022 Spotlight) for latent-space optimization. Built generative combinatorial optimization frameworks including **T2T** (NeurIPS 2023), **FastT2T** (NeurIPS 2024), **GenSCO** (NeurIPS 2025), and **MaskCO** (ICLR 2026) as the first/co-first author, achieving substantial gains in solution quality and speed across TSP, MIS, Max Cut, etc. Proposed **Unify ML4TSP** (ICLR 2025) and led `awesome-ml4co`, `ML4CO-Kit`, `ML4TSPBench`, `ML4CO-Bench-101` with over **3k GitHub stars** and **70k downloads**.
+  Developed generative machine learning paradigms and models, including **PCL** (ICML 2025) for label-repurposed supervised learning and **AdvLatGAN** (NeurIPS 2022 Spotlight) for latent-space optimization. Built generative combinatorial optimization frameworks including **T2T** (NeurIPS 2023), **FastT2T** (NeurIPS 2024), **GenSCO** (NeurIPS 2025), and **MaskCO** (ICLR 2026) as the first/co-first author, achieving substantial gains in solution quality and speed across TSP, MIS, Max Cut, etc. Proposed **Unify ML4TSP** (ICLR 2025) and led `awesome-ml4co`, `ML4CO-Kit`, `ML4TSPBench`, `ML4CO-Bench-101` with over **3k GitHub stars** and **108k downloads**.
 
 - **Researcher, Learning-based Optimization Solver Project with Huawei Noah's Ark Lab** (Apr. 2022 - Feb. 2023)
   Developed generative data methods for SAT and MILP, including **HardSATGEN** (KDD 2023) and **MixSATGEN** (ICLR 2024). The methods were integrated into Huawei's OptVerse AI Solver, which ranked first on the Hans Mittelmann benchmark and received the 2023 WAIC SAIL Award. Developed the **Kissat-Adaptive-Restart** solver for Huawei HiSilicon EDA scenarios, delivering an average performance improvement of about **18%** and a maximum improvement of **97%**.
@@ -62,7 +62,7 @@ Postgraduate period:
 - **Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China** (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
 - **Young Talent (Ph.D) Development Program of the China Association for Science and Technology** (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
 - **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
-- **Baidu Scholarship** (**top 10 world-wide**)
+- **Baidu Scholarship** (<strong class="text-danger">top 10 world-wide</strong>)
 - **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
 - **Doctoral National Scholarship** (<strong class="text-danger">top 1%</strong> in the School of AI)
 - **Master's National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
