@@ -59,11 +59,12 @@ Postgraduate period:
 <small>Selected Awards</small>
 ---
 
+- **Baidu Scholarship** (<strong class="text-danger">top 10 world-wide, ¥200,000</strong>)
+- **Innovation Breakthrough Zhenyi Scholarship** (<strong class="text-danger">top 3 in SII, ¥100,000</strong>)
+- **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
 - **Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China** (<strong class="text-danger">the only recipient in the school, the only F06 (AI category) recipient in the university, ¥300,000</strong>)
 - **Young Talent (Ph.D) Development Program of the China Association for Science and Technology** (<strong class="text-danger">the only recipient in the school, ¥40,000</strong>)
 - **SJTU Pacemaker to Merit Student Award** (<strong class="text-danger">top 10 university-wide</strong>)
-- **Baidu Scholarship** (<strong class="text-danger">top 10 world-wide, ¥200,000</strong>)
-- **Ant InTech-Future Scholarship** (<strong class="text-danger">top 20 world-wide</strong>)
 - **Doctoral National Scholarship** (<strong class="text-danger">top 1%</strong> in the School of AI)
 - **Master's National Scholarship** (<strong class="text-danger">top 1%</strong> in CS Dept.)
 - **Undergraduate National Scholarship** (<strong class="text-danger">top 0.2%</strong> in the nation)
